@@ -1,8 +1,9 @@
+---
 layout: post
 title:  "Assignment 1 -p5 sketch banner"
 date:   2022-08-22 14:43:10 +1000
 categories: jekyll update
-
+---
 The ‘RMIT Creative Coding Specialisation’ banner aims to:
 
 -	Present ‘RMIT’ as big and bold, while incorporating colour as a key element in its delivery
